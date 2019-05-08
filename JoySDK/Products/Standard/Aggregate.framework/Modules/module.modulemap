@@ -1,6 +1,0 @@
-framework module Aggregate {
-  umbrella header "Aggregate.h"
-
-  export *
-  module * { export * }
-}
