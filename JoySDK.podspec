@@ -2,11 +2,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JoySDK'
-  s.version          = '1.0.7'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of.'
   s.homepage         = 'https://github.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'joy' => '4449999444@qq.com' }
+  s.author           = { 'pangyiming' => 'pangyiming@qingting.fm' }
   s.source           = { :git => 'https://github.com/PYMSean/JoySDK.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.frameworks = 'UIKit'
